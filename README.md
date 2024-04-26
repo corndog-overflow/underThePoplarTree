@@ -1,5 +1,5 @@
 # underThePoplarTree
-A repo hosting my WIP indie game, currently housing a preview of assets.
+A repo hosting my WIP indie game, currently housing a preview of assets designed and animated by yours truly.
 
 player attack animation (forward):
 ![output-onlinegiftools(1)](https://github.com/corndog-overflow/underThePoplarTree/assets/104959725/45e79835-6246-487e-b504-eee5f1f479f0)
